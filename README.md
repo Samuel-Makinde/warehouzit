@@ -21,5 +21,5 @@ Allow a space seeker to register via your implementation and display a toast not
 
 # Page Layout
 
-Index.js ------ Serve as registration page & default page
-Login.js ------- Login page
+- Index.js ------ Serve as registration page & default page
+- Login.js ------- Login page
