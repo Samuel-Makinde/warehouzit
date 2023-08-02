@@ -10,14 +10,14 @@ Allow a space seeker to register via your implementation and display a toast not
 
 # Technology use
 
--Next.js
--Tailwind
--Axios
--React toastify---To display toast message
--useform Hook
--yup resolver-----To validate the input form
--Reacticon
--yup
+- Next.js
+- Tailwind
+- Axios
+- React toastify---To display toast message
+- useform Hook
+- yup resolver-----To validate the input form
+- Reacticon
+- yup
 
 # Page Layout
 
